@@ -10,7 +10,6 @@
  * Implementation of deletable_primes.h.
  * ----------------------------------------------------------
  */
- #include <stdbool.h>
  #include <stdio.h>
  #include <math.h>
  #include "deletable_primes.h"
